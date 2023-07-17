@@ -1,3 +1,3 @@
-console.log("Hello world!")
+console.log("Hello World!")
 
-console.log("Halo dunia!")
+console.log("test")
